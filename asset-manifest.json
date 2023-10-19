@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/naaztire/static/css/main.85076ec7.css",
-    "main.js": "/naaztire/static/js/main.21356d5b.js",
-    "static/media/naaz-premium-tire-and-auto-care-bg.jpg": "/naaztire/static/media/naaz-premium-tire-and-auto-care-bg.42f93455f834e310fab5.jpg",
+    "main.css": "/naaztire/static/css/main.83e79f02.css",
+    "main.js": "/naaztire/static/js/main.8c130ab0.js",
+    "static/media/naaz-premium-tire-and-auto-care-bg.jpg": "/naaztire/static/media/naaz-premium-tire-and-auto-care-bg.1847fc6c0073a40efb13.jpg",
     "static/media/naaz-premium-tire-and-auto-care-logo.png": "/naaztire/static/media/naaz-premium-tire-and-auto-care-logo.4f9e7f0bd1deb2208d63.png",
     "static/media/naaz-premium-tire-and-auto-care-logo-new-shop.jpg": "/naaztire/static/media/naaz-premium-tire-and-auto-care-logo-new-shop.cd8f6d5b31f6a5f8e6be.jpg",
     "static/media/Roboto.ttf": "/naaztire/static/media/Roboto.fc2b5060f7accec5cf74.ttf",
@@ -10,16 +10,14 @@
     "static/media/Nunito.ttf": "/naaztire/static/media/Nunito.9d7a6e03c6e3ed49c7ac.ttf",
     "static/media/Nunito-Bold.ttf": "/naaztire/static/media/Nunito-Bold.275dd55e10ba966bcb9b.ttf",
     "static/media/ca_premium_used_tire_shop.jpg": "/naaztire/static/media/ca_premium_used_tire_shop.f4eea78db758e543808a.jpg",
-    "static/media/tire-service-vector.jpg": "/naaztire/static/media/tire-service-vector.0e91e16765571d827d4b.jpg",
     "static/media/30-days-warranty.svg": "/naaztire/static/media/30-days-warranty.42de99da0ecc460991de52286489cd39.svg",
     "static/media/started-at-dolar-19.svg": "/naaztire/static/media/started-at-dolar-19.738d678f31c6b7fe6a6c409e1e1a4629.svg",
-    "static/media/50-percent-off.svg": "/naaztire/static/media/50-percent-off.617abca1a476de338c805d3fdbc6868f.svg",
     "index.html": "/naaztire/index.html",
-    "main.85076ec7.css.map": "/naaztire/static/css/main.85076ec7.css.map",
-    "main.21356d5b.js.map": "/naaztire/static/js/main.21356d5b.js.map"
+    "main.83e79f02.css.map": "/naaztire/static/css/main.83e79f02.css.map",
+    "main.8c130ab0.js.map": "/naaztire/static/js/main.8c130ab0.js.map"
   },
   "entrypoints": [
-    "static/css/main.85076ec7.css",
-    "static/js/main.21356d5b.js"
+    "static/css/main.83e79f02.css",
+    "static/js/main.8c130ab0.js"
   ]
 }
